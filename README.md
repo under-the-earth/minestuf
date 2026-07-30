@@ -1,2 +1,1 @@
-# minestuf
-MINEEEEE
+Font việt hoá
